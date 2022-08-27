@@ -1,4 +1,4 @@
-# CORD19-Machine-Learning
+# Page Ranking of COVID related articles
 To identify and report all the possible entities related to covid 19 using NLP Named entity recognition in CORD19 dataset.
 
 Dataset:
