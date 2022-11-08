@@ -1,4 +1,4 @@
-# Page Ranking of COVID related articles
+# Page Ranking of COVID related articles based on custom NER
 To identify and report all the possible entities related to covid 19 using NLP Named entity recognition in CORD19 dataset.
 
 Dataset:
